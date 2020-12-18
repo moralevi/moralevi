@@ -37,10 +37,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-### Connect with me:
-
-<img align="left" alt="https://github.com/moralevi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-
 <br />
 
 ### Languages and Tools:
