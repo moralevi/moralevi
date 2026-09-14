@@ -20,8 +20,3 @@ Day to day I manage the VTuber **[404NyanFound](https://www.twitch.tv/404nyanfou
 - **UI:** Avalonia + CommunityToolkit.Mvvm, Blazor
 - **Backend:** ASP.NET Core, PostgreSQL, Docker Compose
 - **Infra:** Bare-metal box running AMP, Caddy, Serilog → Loki → Grafana
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moralevi&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="moralevi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moralevi&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-</p>
