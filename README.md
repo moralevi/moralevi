@@ -11,7 +11,7 @@ Day to day I manage the VTuber **[404NyanFound](https://www.twitch.tv/404nyanfou
 | Area | Things I've built |
 |------|-------------------|
 | **Discord tooling** | NekoCore (modular bot with hot-loadable plugins), NekoDesk (ticket bot + Blazor dashboard) |
-| **Game mods** | A pile of SPT (Escape from Tarkov single-player) mods — traders, quest chains — plus Minecraft plugins and an ETS2 livery generator |
+| **Game mods** | A pile of SPT (Escape from Tarkov single-player) mods traders, quest chains plus Minecraft plugins and an ETS2 livery generator |
 | **Social VR** | Tooling for Overte and BasisVR |
 
 ## 🧰 Stack
