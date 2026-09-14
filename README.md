@@ -2,8 +2,6 @@
 
 I build tools, mods, and infrastructure under the **Neko** brand — mostly C#/.NET, mostly self-hosted, mostly because something didn't exist yet and I wanted it to.
 
-Day to day I manage the VTuber **[404NyanFound](https://www.twitch.tv/404nyanfound)**, which means a lot of what I write ends up serving a stream, a Discord, a game server, or a community in some way.
-
 ---
 
 ## 🐾 What I work on
